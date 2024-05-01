@@ -1,0 +1,25 @@
+.vs/
+
+# Object files
+*.o
+*.obj
+
+# Linker output files
+*.out
+*.exe
+
+# Log files
+*.log
+*.tlog
+
+# Debug files
+*.pdb
+*.idb
+
+# Build Info files
+*.ilk
+*.exe.recipe
+
+# IDE Setting Info files
+*.vcxproj.user
+
