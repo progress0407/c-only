@@ -131,6 +131,7 @@
     <ClCompile Include="foo.c" />
     <ClCompile Include="hello.c" />
     <ClCompile Include="main.c" />
+    <ClCompile Include="point_struct.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="bar.h" />
