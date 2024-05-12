@@ -30,6 +30,9 @@
     <ClCompile Include="point_struct.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="db_access_sample.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="foo.h">
