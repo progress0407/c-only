@@ -12,6 +12,7 @@ void move_point(Point* p, int dx, int dy) {
 }
 
 int main() {
+/*
     Point* myPoint = malloc(sizeof(Point));  // 동적 할당
     myPoint->x = 5;
     myPoint->y = 10;
@@ -21,5 +22,6 @@ int main() {
     printf("Moved position: (%d, %d)\n", myPoint->x, myPoint->y);
 
     free(myPoint);  // 할당 해제
+*/
     return 0;
 }
