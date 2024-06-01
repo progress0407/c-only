@@ -10,7 +10,7 @@ struct DBConnection {
 	const char* password;
 };
 
-int main() {	
+int main() {
 
 	struct DBConnection DBConn = {
 		"localhost",
