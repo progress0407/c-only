@@ -19,10 +19,13 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Main.c" />
+    <ClInclude Include="Main.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Main.h" />
+    <ClCompile Include="file_read_ex.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ex.txt" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>

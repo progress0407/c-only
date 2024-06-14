@@ -15,7 +15,8 @@ int main() {
 	//do_struct();
 	//do_string();
 	//do_struct_2();
-	do_struct_3();
+	// do_struct_3();
+	// file_read();
 
 	return 0;
 }
