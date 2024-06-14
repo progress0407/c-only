@@ -20,11 +20,11 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="file_read_ex.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
+    <Text Include="ex.txt" />
   </ItemGroup>
   <ItemGroup>
-    <Text Include="ex.txt" />
+    <ClCompile Include="struct_sample.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

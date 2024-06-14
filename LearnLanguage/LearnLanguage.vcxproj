@@ -22,10 +22,10 @@
     <ClInclude Include="Main.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="file_read_ex.c" />
+    <Text Include="ex.txt" />
   </ItemGroup>
   <ItemGroup>
-    <Text Include="ex.txt" />
+    <ClCompile Include="struct_sample.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
