@@ -12,7 +12,7 @@ typedef struct {
 
 int main() {
 
-	//do_struct();
+	do_struct();
 	//do_string();
 	//do_struct_2();
 	// do_struct_3();

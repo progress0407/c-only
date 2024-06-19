@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Main.h">
+    <ClInclude Include="simple_syntax.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>
@@ -23,7 +23,7 @@
     <Text Include="ex.txt" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="str_parse.c">
+    <ClCompile Include="simple_syntax.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
