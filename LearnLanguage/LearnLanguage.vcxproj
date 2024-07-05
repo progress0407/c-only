@@ -19,13 +19,13 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="simple_syntax.h" />
-  </ItemGroup>
-  <ItemGroup>
     <Text Include="ex.txt" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="simple_syntax.c" />
+    <ClInclude Include="ex_string_pointer.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ex_string_pointer.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
