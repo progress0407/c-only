@@ -25,7 +25,7 @@
     <ClInclude Include="ex_string_pointer.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ex_string_pointer.c" />
+    <ClCompile Include="ex_string.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>

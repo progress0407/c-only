@@ -17,6 +17,7 @@ C컴파일러를 윈도우 전역에서 사용하기 위해서는
 
 ## .GitIgnore
 
+
 ### 포함한 것
 
 - `.c`: 당연히 필요한 핵심 코어
@@ -40,3 +41,16 @@ C컴파일러를 윈도우 전역에서 사용하기 위해서는
 - `.idb`: Intermediate Debug File로, 컴파일러가 중간 컴파일 정보를 저장하는 데 사용
 
 - `log`, `tlog`
+
+## 참고한 자료
+
+### MySQL ODBC 연동
+
+- https://ryadjs.tistory.com/177
+- https://commen.tistory.com/212
+- https://hanhyx.tistory.com/14
+
+### 그 외
+
+- https://hongong.hanbit.co.kr/c%EC%96%B8%EC%96%B4-visual-studio-2022-%EC%84%A4%EC%B9%98%ED%95%98%EA%B3%A0-c-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EB%A7%8C%EB%93%A4%EA%B8%B0/
+

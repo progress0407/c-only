@@ -23,7 +23,7 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ex_string_pointer.c">
+    <ClCompile Include="ex_string.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
